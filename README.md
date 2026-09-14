@@ -1,9 +1,7 @@
 # Diocese Assignment Analysis
 
 Analysis of the assignment of historical places to dioceses, comparing two different sources of medieval diocese boundaries: **Germania Sacra** and **Stanford**.
-
-**Author:** Luana Moraes Costa
-**Report:** https://luanamoraescosta.github.io/DiocesePlaces/
+The result is a Quarto made report with complete analysis and visualizations. **Report:** https://luanamoraescosta.github.io/DiocesePlaces/
 
 ## About
 
@@ -40,12 +38,6 @@ https://purl.stanford.edu/wv641yc5283
 
 *The borders of the dioceses of the Old Kingdom around 1500. Reconstruction of the Germania Sacra on the basis of published maps and source materials* (data collections of the Germania Sacra Materials for the Church of the Old Kingdom 4). Göttingen, 2020.
 https://doi.org/10.26015/adwdocs-34
-
-## Report
-
-The complete analysis and visualizations are available on the project's GitHub Pages:
-
-**https://luanamoraescosta.github.io/DiocesePlaces/**
 
 ## Author
 
